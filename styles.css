@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    /* Sans serif fuente por defecto, por si no encuentra roboto */
+    font-family: 'Roboto', sans-serif;;
+}
+
+ul {
+    list-style: none;
+    font-weight: 300;
+}
+
+footer p {
+    font-weight: 700;
+}
+
